@@ -1,2 +1,2 @@
-# IconTheme
-Icon theme for Linux
+# OS X Impression
+OS X Icon theme for Linux
