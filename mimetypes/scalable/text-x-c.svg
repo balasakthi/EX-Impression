@@ -17,7 +17,7 @@
    version="1.1"
    id="svg1038"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="cp copy.svg">
+   sodipodi:docname="text-x-c.svg">
   <defs
      id="defs1032">
     <linearGradient
@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85150505"
-     inkscape:cx="154.08059"
-     inkscape:cy="103.67932"
+     inkscape:zoom="1.20421"
+     inkscape:cx="199.93211"
+     inkscape:cy="102.95292"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -463,17 +463,15 @@
          transform="translate(0.41988239,0.03484499)" />
     </g>
     <g
-       aria-label=".C"
-       style="font-style:normal;font-weight:normal;font-size:11.56472015px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#451b86;fill-opacity:1;stroke:none;stroke-width:0.07000433"
-       id="text2562">
+       aria-label="C"
+       style="font-style:normal;font-weight:normal;font-size:20.06113625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#50298d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text1351"
+       transform="translate(-4.1284149)">
       <path
-         d="m 11.729774,288.59865 h 1.710991 v 1.68275 h -1.710991 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#451b86;fill-opacity:1;stroke-width:0.07000433"
-         id="path2603" />
-      <path
-         d="m 14.733891,286.18745 q 0,-2.17968 1.168895,-3.35987 1.01643,-1.02773 2.586251,-1.02773 2.100623,0 3.071879,1.37783 0.536449,0.77362 0.575977,1.55288 h -1.739226 q -0.169405,-0.59856 -0.434806,-0.90349 -0.474334,-0.5421 -1.406062,-0.5421 -0.948669,0 -1.496412,0.76797 -0.547743,0.76233 -0.547743,2.16274 0,1.40042 0.575977,2.10062 0.581625,0.69456 1.473825,0.69456 0.914787,0 1.394768,-0.59856 0.265401,-0.32187 0.440453,-0.96561 h 1.722285 q -0.225873,1.36089 -1.157601,2.21356 -0.926081,0.85267 -2.377318,0.85267 -1.795694,0 -2.823418,-1.15195 -1.027724,-1.1576 -1.027724,-3.17352 z m 3.704324,-4.48359 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#451b86;fill-opacity:1;stroke-width:0.07000433"
-         id="path2605" />
+         d="m 17.109791,285.9007 q 0,-2.32716 1.247986,-3.58721 1.085206,-1.09726 2.761245,-1.09726 2.242759,0 3.279733,1.47106 0.572747,0.82596 0.61495,1.65795 h -1.856908 q -0.180867,-0.63907 -0.464226,-0.96463 -0.50643,-0.57877 -1.501202,-0.57877 -1.012858,0 -1.597663,0.81993 -0.584806,0.8139 -0.584806,2.30908 0,1.49517 0.61495,2.24275 0.620979,0.74156 1.573548,0.74156 0.976685,0 1.489144,-0.63907 0.283359,-0.34364 0.470255,-1.03094 h 1.838821 q -0.241157,1.45297 -1.235929,2.36334 -0.988743,0.91036 -2.538175,0.91036 -1.917196,0 -3.01446,-1.2299 -1.097263,-1.23593 -1.097263,-3.38825 z m 3.954971,-4.78696 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.34722805px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#50298d;fill-opacity:1;stroke-width:0.26458332"
+         id="path1353"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
