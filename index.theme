@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Mac OS X impression
-Comment= This icon theme inspired on Mac OS X icons. It mostly imitate OS X icon flat design concepts.
+Comment= This icon theme inspired on Mac OS X icons. It mostly imitate OS X icon design concepts.
 
 Inherits=papirus,breeze,ubuntu-mono-dark,gnome,hicolor
 
