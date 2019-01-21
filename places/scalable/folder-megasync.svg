@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="folder-important.svg">
+   sodipodi:docname="folder-cd (நகல்).svg">
   <defs
      id="defs2">
     <linearGradient
@@ -117,27 +117,27 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.25050053,0,0,0.25198412,0.90067442,263.56437)" />
     <linearGradient
-       id="linearGradient4574"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient8382">
       <stop
-         id="stop4570"
+         style="stop-color:#4db0e3;stop-opacity:1"
          offset="0"
-         style="stop-color:#50b2e3;stop-opacity:1" />
+         id="stop8378" />
       <stop
-         id="stop4572"
+         style="stop-color:#5ebfea;stop-opacity:1"
          offset="1"
-         style="stop-color:#5ec2ee;stop-opacity:1" />
+         id="stop8380" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4574"
-       id="linearGradient5201"
-       x1="27.284336"
-       y1="273.76102"
-       x2="27.73102"
-       y2="285.97803"
+       xlink:href="#linearGradient8382"
+       id="linearGradient5288"
+       x1="31.958117"
+       y1="275.6041"
+       x2="32.619328"
+       y2="289.74118"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0376794,0,0,1.0376794,-12.173459,-9.423666)" />
+       gradientTransform="matrix(0.91518844,0,0,0.91518844,-13.937836,22.638952)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -146,9 +146,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="46.218043"
-     inkscape:cy="31.351556"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="-19.474383"
+     inkscape:cy="19.48199"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -286,88 +286,10 @@
          inkscape:label="Capa 1"
          transform="translate(0.41988239,0.03484499)" />
     </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-9-22-0"
-       transform="matrix(0.51049916,0,0,0.51168467,-274.84722,-2.2300152)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-0-7-6"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-3-2"
-       transform="matrix(0.51049916,0,0,0.51168467,-274.84722,-2.2062057)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-7-6"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-9-2-1"
-       transform="matrix(0.51049916,0,0,0.51168467,-306.04155,-43.751978)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-0-2-8"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-7-7"
-       transform="matrix(0.51049916,0,0,0.51168467,-306.04155,-43.728168)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-3-9"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-9-20"
-       transform="matrix(0.51049916,0,0,0.51168467,-274.84722,-2.2300181)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-0-23"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
-    <g
-       style="stroke-width:4.08449793"
-       inkscape:transform-center-y="-9.4924686"
-       inkscape:transform-center-x="5.4653607"
-       inkscape:label="Capa 1"
-       id="layer1-4-75"
-       transform="matrix(0.51049916,0,0,0.51168467,-274.84722,-2.2062086)">
-      <g
-         style="stroke-width:4.08449793"
-         id="layer1-3-65-9"
-         inkscape:label="Capa 1"
-         transform="translate(0.41988239,0.03484499)" />
-    </g>
     <path
-       style="fill:url(#linearGradient5201);fill-opacity:1;stroke:#4891b2;stroke-width:0.15565193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
-       d="m 16.138935,274.65251 a 0.79352399,0.79352399 0 0 0 -0.796529,0.79353 v 7.15975 c 0,0.43944 0.35468,0.79412 0.796529,0.79412 h 1.589453 a 0.79352399,0.79352399 0 0 0 0.795927,-0.79353 v -7.15974 c 0,-0.43945 -0.354679,-0.79353 -0.795927,-0.79353 z m 0,10.33987 a 0.79352399,0.79352399 0 0 0 -0.796529,0.79351 v 0.79593 c 0,0.44124 0.35468,0.79593 0.796529,0.79593 h 1.589453 a 0.79352399,0.79352399 0 0 0 0.795927,-0.79593 v -0.79593 c 0,-0.43883 -0.354679,-0.79351 -0.795927,-0.79351 z m 0,0"
-       id="path5119" />
+       style="fill:url(#linearGradient5288);fill-opacity:1;stroke:#4891b2;stroke-width:0.13727827;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.933362,274.18686 c -3.827844,0 -6.931361,3.1035 -6.931361,6.93136 0,3.82783 3.103517,6.93136 6.931361,6.93136 3.827845,0 6.931361,-3.10353 6.931361,-6.93136 0,-3.82786 -3.103516,-6.93136 -6.931361,-6.93136 z m -3.46568,3.46568 h 2.310455 v 0 l 1.155225,1.15521 1.155228,-1.15521 h 2.310452 v 6.93136 H 18.08859 v -3.46568 l -1.155228,1.15521 -1.155225,-1.15521 v 3.46568 h -2.310455 z"
+       id="path14" />
   </g>
 </svg>
