@@ -1,4 +1,4 @@
-# OS-X-Impression 
+# EX-Impression 
 This icon theme got inspired on Mac OS icons and mimics those for the Linux OS.
 
 *Icons are still recreated, if any mistakes found report them to me.*
