@@ -1,1 +1,101 @@
-../../devices/scalable/input-gaming.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="applications-games.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6987">
+      <stop
+         id="stop6985"
+         offset="0"
+         style="stop-color:#77d2fb;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="73.860308"
+     inkscape:cy="99.804014"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <g
+       id="g4551"
+       transform="matrix(0.95215087,0,0,0.95215087,3.4194884,21.224732)">
+      <path
+         inkscape:connector-curvature="0"
+         id="circle4537"
+         d="m 20.63595,255.70587 a 9.1086997,9.1086997 0 0 0 -5.452898,1.82469 12.691457,12.691457 0 0 0 -4.390429,-0.80047 12.691457,12.691457 0 0 0 -12.6917319,12.69122 12.691457,12.691457 0 0 0 5.9040324,10.70684 6.9188199,6.9188199 0 0 0 -0.1638144,1.47588 6.9188199,6.9188199 0 0 0 6.9189579,6.91844 6.9188199,6.9188199 0 0 0 5.645133,-2.92592 8.7443531,8.7443531 0 0 0 5.135604,1.67793 8.7443531,8.7443531 0 0 0 8.744169,-8.74417 8.7443531,8.7443531 0 0 0 -3.515032,-6.99544 9.1086997,9.1086997 0 0 0 2.974496,-6.72 9.1086997,9.1086997 0 0 0 -9.108487,-9.109 z"
+         style="opacity:0.25;fill:#000000;fill-opacity:0.90196078;fill-rule:nonzero;stroke:none;stroke-width:0.15905213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#c96fde;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#733f80;stroke-width:0.15905213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196072"
+         id="circle1049"
+         cx="10.759997"
+         cy="281.07471"
+         r="6.9188199" />
+      <circle
+         r="9.1086998"
+         cy="264.28561"
+         cx="20.635925"
+         id="circle1047"
+         style="opacity:1;fill:#ffca00;fill-opacity:0.90196078;fill-rule:nonzero;stroke:#b28d00;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90196072" />
+      <circle
+         r="12.691457"
+         cy="268.89218"
+         cx="10.792428"
+         id="path1043"
+         style="opacity:1;fill:#0078ff;fill-opacity:0.8;fill-rule:nonzero;stroke:#004899;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8" />
+      <circle
+         style="opacity:1;fill:#fc2b53;fill-opacity:0.8;fill-rule:nonzero;stroke:#a71c37;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+         id="circle1045"
+         cx="21.540688"
+         cy="278.00092"
+         r="8.7443533" />
+    </g>
+  </g>
+</svg>

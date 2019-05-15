@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="ntoes.svg">
+   sodipodi:docname="bijiben.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="21.932294"
-     inkscape:cy="39.31157"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-10.226793"
+     inkscape:cy="55.54762"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="792"
+     inkscape:window-height="803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g1318"
-       transform="matrix(0.99090372,0,0,0.9909359,259.44205,87.862668)"
+       transform="matrix(0.94371797,0,0,0.94374861,247.89405,97.015213)"
        style="stroke-width:1.00916338">
       <path
          style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2670078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

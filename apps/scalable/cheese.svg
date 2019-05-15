@@ -15,8 +15,8 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="facetime.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cheese.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -122,15 +122,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="26.780133"
-     inkscape:cy="35.558551"
+     inkscape:cx="68.173036"
+     inkscape:cy="79.202478"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,7 +152,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g1115"
-       transform="matrix(0.99550046,0,0,0.99550511,269.22523,107.57993)"
+       transform="matrix(0.95238085,0,0,0.9523853,258.27342,115.00327)"
        style="stroke-width:1.00451756">
       <circle
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20090351;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

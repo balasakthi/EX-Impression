@@ -35,14 +35,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="37.557067"
-     inkscape:cy="55.185657"
+     inkscape:zoom="4.828125"
+     inkscape:cx="41.462533"
+     inkscape:cy="45.157549"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g829"
-       transform="translate(0,-0.26458359)">
+       transform="matrix(0.95238095,0,0,0.95238095,0.80634925,13.084524)">
       <g
          id="g821"
          transform="matrix(0.19247259,0,0,0.19247259,-0.25030184,248.99694)"

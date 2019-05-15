@@ -15,8 +15,8 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="drawing.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="applications-accessories.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -313,15 +313,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="29.651528"
-     inkscape:cy="72.787819"
+     inkscape:cx="13.74455"
+     inkscape:cy="56.912226"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="792"
+     inkscape:window-width="1366"
+     inkscape:window-height="669"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -332,7 +332,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -343,7 +343,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g5806"
-       transform="matrix(1.0068968,0,0,1.007102,44.675445,64.128308)"
+       transform="matrix(0.95894894,0,0,0.95914437,43.354381,74.41117)"
        style="stroke-width:0.99304926">
       <rect
          style="fill:url(#linearGradient3068-9);fill-opacity:1;stroke:#333333;stroke-width:0.19860987;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="dropbox.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1156">
+      <stop
+         style="stop-color:#feffff;stop-opacity:1"
+         offset="0"
+         id="stop1152" />
+      <stop
+         style="stop-color:#eceff2;stop-opacity:1"
+         offset="1"
+         id="stop1154" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1156"
+       id="linearGradient958"
+       x1="79.745979"
+       y1="282.62067"
+       x2="79.745979"
+       y2="305.11026"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="196.30299"
+     inkscape:cy="15.548783"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="803"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <g
+       id="g992"
+       transform="matrix(1.1749399,0,0,1.1749399,-78.27965,-65.348697)">
+      <rect
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect974"
+         width="26.393484"
+         height="26.393484"
+         x="67.839729"
+         y="281.10339"
+         ry="6.2140164" />
+      <rect
+         ry="6.2140164"
+         y="280.57422"
+         x="67.839729"
+         height="26.393484"
+         width="26.393484"
+         id="rect950"
+         style="opacity:1;fill:url(#linearGradient958);fill-opacity:1;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g972"
+         transform="matrix(0.49057394,0,0,0.49057394,69.225904,282.33144)"
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <g
+           id="g970"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <polygon
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             points="3.075,26.502 15.5,34.614 24.041,27.445 11.825,19.647 "
+             id="polygon960" />
+          <polygon
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             points="3.189,12.935 11.701,19.676 24.052,12.03 15.472,4.88 "
+             id="polygon962" />
+          <polygon
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             points="45.075,26.502 36.325,19.647 24.11,27.445 32.65,34.614 "
+             id="polygon964" />
+          <polygon
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             points="24.098,12.03 36.449,19.676 44.961,12.935 32.679,4.88 "
+             id="polygon966" />
+          <polygon
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             points="12,33.869 12,36.42 23.887,43.92 36,36.328 36,33.967 32.694,36.325 24.072,29.167 15.472,36.297 "
+             id="polygon968" />
+        </g>
+      </g>
+      <g
+         style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.49057394,0,0,0.49057394,69.225904,281.80227)"
+         id="g1122">
+        <g
+           style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="g1120">
+          <polygon
+             id="polygon1110"
+             points="11.825,19.647 3.075,26.502 15.5,34.614 24.041,27.445 "
+             style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <polygon
+             id="polygon1112"
+             points="15.472,4.88 3.189,12.935 11.701,19.676 24.052,12.03 "
+             style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <polygon
+             id="polygon1114"
+             points="32.65,34.614 45.075,26.502 36.325,19.647 24.11,27.445 "
+             style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <polygon
+             id="polygon1116"
+             points="32.679,4.88 24.098,12.03 36.449,19.676 44.961,12.935 "
+             style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <polygon
+             id="polygon1118"
+             points="15.472,36.297 12,33.869 12,36.42 23.887,43.92 36,36.328 36,33.967 32.694,36.325 24.072,29.167 "
+             style="fill:#1c84e4;fill-opacity:1;stroke:#135b9d;stroke-width:0.17468289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

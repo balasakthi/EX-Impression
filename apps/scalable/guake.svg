@@ -58,14 +58,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-67.885825"
-     inkscape:cy="83.522221"
+     inkscape:zoom="2.3897999"
+     inkscape:cx="-27.526215"
+     inkscape:cy="38.3495"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="792"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,46 +87,50 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10553986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1015"
-       width="33.337502"
-       height="29.183573"
-       x="0.26458335"
-       y="265.47485"
-       ry="1.5424962" />
-    <rect
-       ry="1.1978766"
-       y="265.84836"
-       x="0.691239"
-       height="28.436579"
-       width="32.484177"
-       id="rect1017"
-       style="opacity:1;fill:#085432;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.08500546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       y="267.87656"
-       x="2.7153795"
-       height="24.380209"
-       width="28.435896"
-       id="rect1019"
-       style="opacity:1;fill:#0fa15f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12322024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422"
-       id="g1053"
-       transform="matrix(0.88797013,0,0,0.88797013,-4.9203369,259.56173)">
+       id="g835"
+       transform="matrix(0.94953267,0,0,0.94953267,0.85457938,14.134229)">
+      <rect
+         ry="1.5424962"
+         y="265.47485"
+         x="0.26458335"
+         height="29.183573"
+         width="33.337502"
+         id="rect1015"
+         style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#085432;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.08500546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1017"
+         width="32.484177"
+         height="28.436579"
+         x="0.691239"
+         y="265.84836"
+         ry="1.1978766" />
+      <rect
+         style="opacity:1;fill:#0fa15f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12322024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1019"
+         width="28.435896"
+         height="24.380209"
+         x="2.7153795"
+         y="267.87656" />
       <g
-         id="g1110">
-        <polygon
-           id="polygon1049"
-           points="11.5,16.018 11.5,17.031 15.5,14.935 15.5,14.287 11.5,12.016 11.5,12.956 14.451,14.583 "
-           stroke-miterlimit="10"
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422;stroke-miterlimit:10" />
-        <path
-           id="path1051"
-           d="m 22.5,19.5 h -6 v -1 h 6 z"
-           stroke-miterlimit="10"
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422;stroke-miterlimit:10" />
+         transform="matrix(0.88797013,0,0,0.88797013,-4.9203369,259.56173)"
+         id="g1053"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422">
+        <g
+           id="g1110">
+          <polygon
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422;stroke-miterlimit:10"
+             stroke-miterlimit="10"
+             points="15.5,14.287 11.5,12.016 11.5,12.956 14.451,14.583 11.5,16.018 11.5,17.031 15.5,14.935 "
+             id="polygon1049" />
+          <path
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.29796422;stroke-miterlimit:10"
+             inkscape:connector-curvature="0"
+             stroke-miterlimit="10"
+             d="m 22.5,19.5 h -6 v -1 h 6 z"
+             id="path1051" />
+        </g>
       </g>
     </g>
   </g>

@@ -16,8 +16,8 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg880"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="dock.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cs-applets.svg">
   <defs
      id="defs874">
     <linearGradient
@@ -53,7 +53,7 @@
          style="stop-color:#77d2fb;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.21334088,0,0,0.21334088,62.320793,247.64298)"
+       gradientTransform="matrix(0.21334088,0,0,0.21334088,62.320792,247.64299)"
        y2="220.38788"
        x2="-219.88927"
        y1="84.454018"
@@ -70,7 +70,8 @@
        y1="94.360886"
        x2="78.039284"
        y2="107.11197"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.7883403e-7,263.13333)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -80,15 +81,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="219.30028"
-     inkscape:cy="36.640592"
+     inkscape:cx="1.7385611"
+     inkscape:cy="110.55484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -109,22 +110,22 @@
      id="layer1"
      transform="translate(0,-263.13332)">
     <g
-       id="g1377"
-       transform="translate(-7.7883403e-7,1.3433126e-5)">
+       id="g883"
+       transform="matrix(0.95238091,0,0,0.95238091,0.80634992,13.336532)">
       <rect
          ry="1.5424962"
          y="265.47485"
-         x="0.26458335"
+         x="0.26458257"
          height="29.183573"
          width="33.337502"
          id="rect1015"
-         style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10553986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient1025);fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.08500546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1017"
          width="32.484177"
          height="28.436579"
-         x="0.691239"
+         x="0.69123822"
          y="265.84836"
          ry="1.1978766" />
       <rect
@@ -132,18 +133,17 @@
          id="rect1019"
          width="28.435896"
          height="24.380209"
-         x="2.7153795"
+         x="2.7153788"
          y="267.87656" />
       <path
          id="rect1286"
-         transform="matrix(0.26458333,0,0,0.26458333,0,263.13332)"
-         d="M 10.263672,91.214844 V 110.07227 H 117.73633 V 91.214844 Z"
-         style="opacity:0.3;fill:url(#linearGradient1355);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46571431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 2.7155957,287.26726 v 4.98936 H 31.151069 v -4.98936 z"
+         style="opacity:0.3;fill:url(#linearGradient1355);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12322024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <g
          style="opacity:0.25;fill:#000000;stroke:#000000"
          id="g1339"
-         transform="translate(-0.19335192,0.52916667)">
+         transform="translate(-0.1933527,0.5291801)">
         <rect
            ry="0.041760866"
            y="288.30765"
@@ -202,7 +202,7 @@
            ry="0.041760866" />
       </g>
       <g
-         transform="translate(-0.19335192)"
+         transform="translate(-0.1933527,1.3433126e-5)"
          id="g1323">
         <rect
            style="opacity:1;fill:#2b9efc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

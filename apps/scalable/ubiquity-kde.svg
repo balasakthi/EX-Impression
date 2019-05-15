@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="inst.svg">
+   sodipodi:docname="ubiquity-kde.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -112,14 +112,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="79.709488"
-     inkscape:cy="44.614435"
+     inkscape:zoom="3.3796875"
+     inkscape:cx="71.390146"
+     inkscape:cy="49.925405"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="792"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,7 +169,7 @@
     </g>
     <g
        id="g12842"
-       transform="matrix(0.98719017,0,0,0.98725132,-82.691931,106.91435)"
+       transform="matrix(0.94018103,0,0,0.94023927,-77.947862,115.15971)"
        style="stroke-width:1.0129447">
       <ellipse
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20258895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

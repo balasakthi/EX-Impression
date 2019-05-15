@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="clock.svg">
   <defs
      id="defs2">
@@ -40,7 +40,7 @@
        x2="27.577757"
        y2="221.62036"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.89196951,0,0,0.89196951,-8.0277035,66.958223)" />
+       gradientTransform="matrix(0.89196951,0,0,0.89196951,-8.0277026,67.043843)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,16 +49,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="47.852022"
-     inkscape:cy="45.541378"
+     inkscape:zoom="1.979899"
+     inkscape:cx="47.103525"
+     inkscape:cy="35.687964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,29 +79,29 @@
      id="layer1"
      transform="translate(0,-263.13332)">
     <g
-       id="g1062"
-       transform="translate(8.9009603e-7,0.08562001)">
+       id="g925"
+       transform="matrix(0.95729774,0,0,0.95729774,0.72309245,11.959467)">
       <circle
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10913613;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle950"
          cx="16.933332"
-         cy="280.2381"
+         cy="280.32373"
          r="16.326073" />
       <circle
          r="16.326073"
-         cy="279.72397"
+         cy="279.8096"
          cx="16.933332"
          id="path826"
-         style="opacity:1;fill:url(#linearGradient826);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10913613;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient826);fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="14.961991"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle828"
          cx="17.008274"
-         cy="279.87299" />
+         cy="279.95862" />
       <g
          style="fill:#000000;fill-opacity:1;stroke-width:0.62579727"
-         transform="matrix(1.5979616,0,0,1.5979616,-51.583902,-89.699185)"
+         transform="matrix(1.5979616,0,0,1.5979616,-51.583901,-89.613565)"
          id="g948">
         <g
            aria-label="10"
@@ -241,15 +241,15 @@
       </g>
       <circle
          r="0.86170214"
-         cy="279.76184"
+         cy="279.84747"
          cx="16.804157"
          id="path834"
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12027733;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          transform="rotate(35.0784)"
          ry="0.38739392"
-         y="218.87355"
-         x="165.44527"
+         y="218.94362"
+         x="165.49448"
          height="0.77478784"
          width="9.3533096"
          id="rect840"
@@ -260,14 +260,14 @@
          id="rect842"
          width="13.569944"
          height="0.77478784"
-         x="-126.40888"
-         y="249.6821"
+         x="-126.45208"
+         y="249.75603"
          ry="0.38739392" />
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
          ry="0"
          y="-16.932714"
-         x="-293.60361"
+         x="-293.68924"
          height="0.25711179"
          width="15.882224"
          id="rect844"
@@ -276,7 +276,7 @@
          r="0.34083217"
          transform="matrix(0,-1,-1,0,0,0)"
          cy="-16.804157"
-         cx="-279.76184"
+         cx="-279.84747"
          id="path846"
          style="opacity:1;fill:#fc2529;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.14076923;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>

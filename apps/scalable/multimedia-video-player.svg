@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="multimedia-video-player.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -102,15 +102,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="84.73138"
-     inkscape:cy="56.685677"
+     inkscape:zoom="3.3796875"
+     inkscape:cx="63.928499"
+     inkscape:cy="45.936397"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,7 +133,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g2829"
-       transform="matrix(0.99640154,0,0,0.99640154,0.06094241,0.94781715)"
+       transform="matrix(0.94895384,0,0,0.94895384,0.86438973,14.239192)"
        style="stroke-width:1.00361145">
       <path
          inkscape:connector-curvature="0"

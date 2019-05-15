@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="sppech.svg">
+   sodipodi:docname="gnome-sound-recorder.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -91,7 +91,7 @@
        x2="72.17337"
        y2="196.5096"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.22711251,0,0,0.22711251,14.006933,35.527392)" />
+       gradientTransform="matrix(0.20994704,0,0,0.21002038,-3.206745,253.89389)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1506"
@@ -127,14 +127,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="59.6424"
-     inkscape:cy="90.788768"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-30.303852"
+     inkscape:cy="104.09905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="792"
+     inkscape:window-height="803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -147,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,27 +163,26 @@
        id="path1084-3"
        style="opacity:1;fill:url(#linearGradient1096);fill-opacity:1;stroke:none;stroke-width:1.30081999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g1519"
-       transform="matrix(0.92441864,0,0,0.92474157,-16.155015,221.04023)"
-       style="stroke-width:1.08157206">
+       id="g850"
+       transform="matrix(0.95238073,0,0,0.95238073,0.80635251,13.336557)">
       <rect
-         style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.32447162;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1500"
-         width="35.341644"
-         height="35.359238"
-         x="18.122862"
-         y="46.496262"
-         ry="1.4702077" />
+         width="32.670475"
+         height="32.698158"
+         x="0.59809631"
+         y="264.03726"
+         ry="1.3595622" />
       <rect
-         ry="1.4702077"
-         y="45.967094"
-         x="18.122862"
-         height="35.359238"
-         width="35.341644"
+         ry="1.3595622"
+         y="263.54791"
+         x="0.59809631"
+         height="32.698158"
+         width="32.670475"
          id="rect1449"
-         style="opacity:1;fill:url(#linearGradient1498);fill-opacity:1;fill-rule:nonzero;stroke:#5b738e;stroke-width:0.32447162;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient1498);fill-opacity:1;fill-rule:nonzero;stroke:#415366;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
-         transform="matrix(0.22711251,0,0,0.22711251,12.73093,35.702697)"
+         transform="matrix(0.20994704,0,0,0.21002038,-4.386306,254.056)"
          style="fill:url(#linearGradient1508);fill-opacity:1;stroke:#1a1a1a;stroke-width:0.4762274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="g1490">
         <path

@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="preferences-desktop-accessibility.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -77,7 +77,7 @@
          style="stop-color:#77d2fb;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.22774438,0,0,0.22774438,-61.655782,122.98895)"
+       gradientTransform="matrix(0.22774438,0,0,0.22774438,21.800912,211.0789)"
        gradientUnits="userSpaceOnUse"
        y2="272.58057"
        x2="-71.217484"
@@ -104,7 +104,7 @@
        id="linearGradient1236"
        xlink:href="#linearGradient1324"
        inkscape:collect="always"
-       gradientTransform="matrix(0.22774438,0,0,0.22774438,-21.345407,121.57051)" />
+       gradientTransform="matrix(0.22774438,0,0,0.22774438,62.111287,209.66046)" />
     <linearGradient
        y2="276.14972"
        x2="-386.62851"
@@ -131,15 +131,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-101.3815"
-     inkscape:cy="-155.61158"
+     inkscape:zoom="2.56"
+     inkscape:cx="-20.361374"
+     inkscape:cy="47.098485"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
+     inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -151,7 +151,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,35 +161,35 @@
      id="layer1"
      transform="translate(0,-263.13332)">
     <g
-       id="g1437"
-       transform="translate(94.773833,81.785426)">
+       id="g862"
+       transform="matrix(0.94953299,0,0,0.94953299,11.600572,8.1952422)">
       <circle
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2208066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle1338"
-         cx="-77.8405"
-         cy="198.55238"
+         cx="5.6161942"
+         cy="286.64233"
          r="16.397596" />
       <circle
          r="16.397596"
-         cy="198.01007"
-         cx="-77.8405"
+         cy="286.10004"
+         cx="5.6161942"
          id="path941"
-         style="opacity:1;fill:url(#linearGradient961);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2208066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient961);fill-opacity:1;fill-rule:nonzero;stroke:#046c98;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="14.255995"
-         cy="198.41681"
-         cx="-77.8405"
+         cy="286.50677"
+         cx="5.6161942"
          id="circle1336"
          style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient1236);stroke-width:1.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle951"
-         cx="-77.8405"
-         cy="198.01007"
+         cx="5.6161942"
+         cy="286.10004"
          r="14.255995" />
       <g
          id="g1334"
-         transform="matrix(0.22774438,0,0,0.22774438,10.19298,145.15757)"
+         transform="matrix(0.22774438,0,0,0.22774438,93.649674,233.24752)"
          style="opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:3.90301132">
         <path
            inkscape:connector-curvature="0"
@@ -205,7 +205,7 @@
       </g>
       <g
          style="fill:url(#linearGradient1228);fill-opacity:1;stroke-width:3.90301132"
-         transform="matrix(0.22774438,0,0,0.22774438,10.19298,144.75083)"
+         transform="matrix(0.22774438,0,0,0.22774438,93.649674,232.84078)"
          id="g1220">
         <path
            id="path6668"
