@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="notwe.svg">
+   sodipodi:docname="accessories-notes.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -49,14 +49,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9056987"
-     inkscape:cx="65.777809"
-     inkscape:cy="67.976701"
+     inkscape:zoom="1.9528494"
+     inkscape:cx="42.539779"
+     inkscape:cy="57.212592"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="814"
+     inkscape:window-height="803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
      transform="translate(0,-263.13332)">
     <g
        id="g1273"
-       transform="matrix(0.98426597,0,0,0.98432883,262.20573,134.26616)"
+       transform="matrix(0.93739607,0,0,0.93745594,250.52607,141.20906)"
        style="stroke-width:1.01595306">
       <rect
          style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10159531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
